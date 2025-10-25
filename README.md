@@ -1,0 +1,3 @@
+- You want to update the UI in response to user interaction .
+- You’re managing simple, local state (like toggles, counters, form inputs)
+- You don’t need to share state across multiple widgets or screens
